@@ -1,4 +1,9 @@
 ## Olá, me chamo Kauã Mercury, tenho 21 anos e moro em São Paulo
+<div>
+  <a href="https://github.com/okauamercury">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okauamercury&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauamercury&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
    <div align="center">
   <img width="8" />
