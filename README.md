@@ -1,7 +1,5 @@
 ## 
-Olá me chamo Kauã Mercury, desenvolvedor de software.
-
-<h3>Técnico em Desenvolvimentos de Sistemas</h3>
+Olá me chamo Kauã Mercury, engenheiro de software.
  
 <div>
 
