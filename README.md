@@ -18,7 +18,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,mysql,postgres,html,css,php,bootstrap,ts,angular" />
+<img src="https://skillicons.dev/icons?i=cs,mysql,postgres,html,css,php,bootstrap,ts,angular,ionic" />
+
 
 </div>
 
@@ -32,6 +33,7 @@
 🔹 APIs e Integrações  
 🔹 Banco de Dados  
 🔹 Sistemas Empresariais  
+🔹 Desing 
 
 ---
 
@@ -45,6 +47,9 @@
 ✔️ Carrinho de compras  
 ✔️ Integração com banco de dados  
 ✔️ Interfaces modernas e responsivas  
+✔️ Site para restaurante
+✔️ Sistema de filas para atendimento
+✔️ Criação e consumo de APIs REST 
 
 ---
 
