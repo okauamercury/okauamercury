@@ -1,42 +1,107 @@
-## 
-Olá me chamo Kauã Mercury, engenheiro de software.
- 
-<div>
+<h1 align="center">👨‍💻 Kauã Mercury</h1>
+<h3 align="center">Engenheiro de Software | Full Stack Developer</h3>
 
-   <div align="center">
-  <img width="8" />
-  <img align="center" alt="Kauã-Csharp" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="30" alt="html5 logo" />   
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"height="30" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"height="30" />
+<p align="center">
+  🚀 Transformando ideias em soluções digitais
+</p>
 
-  
-<div   >
+---
 
-   #
-<div>
-  <a href="https://www.linkedin.com/in/kauã-mercury-509a4529a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:contatookauamercury@gmail.com">
+## 🧠 Sobre mim
+
+🎯 Sou um engenheiro de software apaixonado por tecnologia, inovação e desenvolvimento de soluções eficientes.  
+💡 Tenho experiência no desenvolvimento **Web, Desktop e Mobile**, sempre buscando qualidade, performance e escalabilidade.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
-   <a href="https://komarev.com/ghpvc/?username=okauamercury&label=Profile%20views&color=0e75b6&style=for-the-badge">
-        <img src="https://komarev.com/ghpvc/?username=okauamercury&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
- 
-  
+
+<img src="https://skillicons.dev/icons?i=cs,mysql,postgres,html,css,php,bootstrap,ts,angular" />
+
 </div>
- 
 
-  #
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okauamercury/okauamercury/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okauamercury/okauamercury/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/okauamercury/okauamercury/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
+## 📌 Áreas de Atuação
+
+🔹 Desenvolvimento Web  
+🔹 Desenvolvimento Desktop  
+🔹 Desenvolvimento Mobile  
+🔹 APIs e Integrações  
+🔹 Banco de Dados  
+🔹 Sistemas Empresariais  
+
+---
+
+## ⚙️ Projetos & Experiência
+
+💼 Experiência no desenvolvimento de sistemas com:
+
+✔️ Controle de usuários e níveis de acesso  
+✔️ Gerenciamento de produtos e fornecedores  
+✔️ Sistema de pedidos e vendas  
+✔️ Carrinho de compras  
+✔️ Integração com banco de dados  
+✔️ Interfaces modernas e responsivas  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=okauamercury&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauamercury&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kauã-mercury-509a4529a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:contatookauamercury@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 👀 Visitas no Perfil
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=okauamercury&label=Visualizações&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/okauamercury/okauamercury/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## ✨ Estilo & Identidade
+
+🔷 Foco em código limpo  
+🔷 Arquitetura bem estruturada  
+🔷 Boas práticas de desenvolvimento  
+🔷 Experiência do usuário  
+
+---
+
+<p align="center">
+   "Tecnologia não é só código, é solução."
+</p>
